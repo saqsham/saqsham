@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br>    
 
 <p align="center">
-<ul>
+<ul style="list-style: none;">
 
 <li>🎓 A final year CSE student at VIT.</li>
 
