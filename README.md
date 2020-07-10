@@ -1,4 +1,4 @@
-### Hello there
+# Hello there
 <!--
 **saqsham/saqsham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<hr>
-<br>
 
 <p align="center">
     <a href="https://twitter.com/saqshams"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/saqshams?color=09f&label=%40saqshams&logo=twitter&logoColor=09f&style=for-the-badge&labelColor=black"></a>
