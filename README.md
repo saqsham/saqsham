@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 <ul>
 
 🎓 A final year CSE student at VIT.
-
-<li>🕸 I'm currently preparing for placements, hopefully everything goes right. </li>
-
-<li>🌱 I'm decent at learning new and better things, and I try my best to not to procrastinate.</li>
-  
-<li>📫 How to reach me: sakshamsainiwork@gmail.com</li>
-
+<br>
+🕸 I'm currently preparing for placements, hopefully everything goes right.
+<br>
+🌱 I'm decent at learning new and better things, and I try my best to not to procrastinate.
+<br>
+📫 How to reach me: sakshamsainiwork@gmail.com
+<br>
 </ul>
 
 </p>
