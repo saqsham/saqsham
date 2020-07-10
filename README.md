@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 <p align="left">
 <ul>
 
-<li>🎓 A final year CSE student at VIT.</li>
+🎓 A final year CSE student at VIT.
 
-<li>🕸 I'm currently preparing for placements, hopefully everything goes right. </li>\
+<li>🕸 I'm currently preparing for placements, hopefully everything goes right. </li>
 
 <li>🌱 I'm decent at learning new and better things, and I try my best to not to procrastinate.</li>
   
