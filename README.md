@@ -22,11 +22,14 @@ Here are some ideas to get you started:
 <br>    
 
 <p align="center">
-🎓 A final year CSE student at VIT.
-<br>
-🕸 I'm currently preparing for placements, hopefully everything goes right.
-<br>  
-📫 How to reach me: sakshamsainiwork@gmail.com
-<br>
+<ul>
+
+<li>🎓 A final year CSE student at VIT.</li>
+
+<li>🕸 I'm currently preparing for placements, hopefully everything goes right. </li>
+  
+<li>📫 How to reach me: sakshamsainiwork@gmail.com</li>
+
+</ul>
 
 </p>
