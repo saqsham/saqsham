@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p align="center">
 <ul style="list-style: none;">
 
-<li>🎓 A final year CSE student at VIT.</li>
+<li style="list-style: none;">🎓 A final year CSE student at VIT.</li>
 
 <li>🕸 I'm currently preparing for placements, hopefully everything goes right. </li>
   
