@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
 <a href="https://github.com/saqsham/saqsham">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqsham&theme=tokyonight&langs_count=10&layout=compact?hide=HTML,CSS" alt="saqsham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqsham&theme=tokyonight?hide=html,css&langs_count=10&layout=compact" alt="saqsham" />
 </a>
