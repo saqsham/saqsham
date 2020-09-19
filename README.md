@@ -40,6 +40,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/saqsham/saqsham">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqsham&theme=tokyonight&langs_count=10&layout=compact" alt="saqsham" />
 </a>
-<a href="https://github.com/saqsham/saqsham">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saqsham&count_private=true&show_icons=true&theme=tokyonight&line_height=27" alt="saqsham" />
-</a>
