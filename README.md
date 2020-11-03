@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br>
 🕸 I'm currently preparing for placements, hopefully everything goes right.
 <br>
-🌱 I'm decent at learning new and better things, and I try my best to not to procrastinate.
+🌱 I'm decent at learning new and better things, and I try my best to not procrastinate.
 <br>
 📫 How to reach me: sakshamsainiwork@gmail.com
 <br>
