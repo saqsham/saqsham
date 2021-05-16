@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <ul>
 🎓 A final year CSE student at VIT.
 <br>
-🕸 Working remotely at [greedygame](https://greedygame.com).
+🕸 Working remotely at [greedygame](https://greedygame.com) .
 <br>
 🌱 I'm decent at learning new and better things, and I try my best to not procrastinate.
 <br>
