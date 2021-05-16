@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br>
 🌱 I'm decent at learning new and better things, and I try my best to not procrastinate.
 <br>
-📫 How to reach me: sakshamsainiwork@gmail.com
+📫 How to reach me: <span style="color:blue;">sakshamsainiwork@gmail.com</span>
 <br>
 </ul>
 
