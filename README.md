@@ -8,8 +8,6 @@
     <ul>
         🎓 A final year CSE student at VIT.
     <br>
-        🕸 Working remotely at <a href="https://greedygame.com">greedygame</a>.
-    <br>
         🌱 I'm decent at learning new and better things, and I try my best to not procrastinate.
     <br>
         📫 How to reach me: <span style="color:blue;">sakshamsainiwork@gmail.com</span>
