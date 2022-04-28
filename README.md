@@ -6,7 +6,7 @@
 </p>
 <p align="left">
     <ul>
-        🎓 A final year CSE student at VIT.
+        🎓 Currently working at GreedyGame Media Pvt. Ltd. as a Backend Engineer.
     <br>
         🌱 I'm decent at learning new and better things, and I try my best to not procrastinate.
     <br>
